@@ -3,3 +3,6 @@ examples/build
 docs
 misc
 .vscode
+
+# cmake
+/build/
